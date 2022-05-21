@@ -4,7 +4,7 @@ let form, player, game
 let playerCount, gameState
 
 function preload() {
-  backgroundImage = loadImage("./assets/planodefundo.png")
+  backgroundImage = loadImage("./assets/background.png")
 }
 
 function setup() {
